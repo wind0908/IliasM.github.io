@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/line-awesome-1.3.0/1.3.0/fonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ilias.m",
+		"liveServer.settings.port": 5501
+	}
+}
